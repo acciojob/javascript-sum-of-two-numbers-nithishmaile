@@ -1,4 +1,6 @@
-let input1 = prompt("Enter the first number:");
-let input2 = prompt("Enter the second number:");
+//let input1 = prompt("Enter the first number:");
+//let input2 = prompt("Enter the second number:");
+
+if(input)
 
 // Write your code here and print the output using alert function
